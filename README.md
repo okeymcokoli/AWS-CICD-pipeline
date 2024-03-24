@@ -1,7 +1,7 @@
 # AWS-CICD-pipeline
-#Author: Okey McOkoli
-#Version: v1
-#Date: 3/25/24
+1. #Author: Okey McOkoli
+2. #Version: v1
+3. #Date: 3/25/24
 ######################
 Deploying AWS  CICD pipeline using Codepipline
 Utilizing code-pile to deploy multi services on AWS
