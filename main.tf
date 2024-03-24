@@ -148,7 +148,7 @@ resource "aws_sns_topic_subscription" "audit_updates_sqs_target" {
   provider = aws.audit-account
   topic_arn = data.aws_sns_topic.audit_sns_topic.arn
   protocol  = "email"
-  endpoint  = "info@interstylesgroup.com"
+  endpoint  = "info@example.com"
 }
 
 ###Lamda resource

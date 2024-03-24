@@ -1,4 +1,4 @@
-#dynamodb
+#Creating DynamoDB
 resource "aws_dynamodb_table" "terraform-lock" {
     name           = var.backend-dynamodb-name
     read_capacity  = 5
